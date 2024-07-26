@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SpotFinder</string>
+
+    <string name="back_button">Back</string>
+
+
+    <string name="categories">Categories</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="coffee_shops">Coffee Shops</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="kid_friendly_places">Kid-friendly Places</string>
+    <string name="parks">Parks</string>
+    <string name="shopping_centers">Shopping Centers</string>
+    <string name="details">Details</string>
+</resources>
